@@ -4,5 +4,8 @@ Description xd
 # SubHeader
 Watch tutorial on Youtube bruh
 
-## Local Development
-1. Open index.html in your browser.
+# My friend List.
+Cesar
+Walter
+Kike
+Gerson
