@@ -4,5 +4,7 @@ Description xd
 # SubHeader
 Watch tutorial on Youtube bruh
 
-## Local Development
-1. Open index.html in your browser.
+# Games
+Killing floor 2
+Left 4 Dead 2
+Don't Starve Together
