@@ -8,3 +8,9 @@ Watch tutorial on Youtube bruh
 Killing floor 2
 Left 4 Dead 2
 Don't Starve Together
+
+# My friend List.
+Cesar
+Walter
+Kike
+Gerson
