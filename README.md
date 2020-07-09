@@ -14,3 +14,8 @@ Cesar
 Walter
 Kike
 Gerson
+
+# My list of songs.
+RLY
+Lexapro Delirium
+Mr Kill Myself
